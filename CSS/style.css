@@ -1,0 +1,49 @@
+body
+{
+  background-color: #82A284;
+}
+.image1
+{
+  border-radius: 100%;
+}
+hr
+{
+  background-color: #82A284;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 30px;
+  width: 30%;
+}
+div
+{
+border: solid;
+background-color: #7FB5FF;
+margin-left: 10px;
+}
+#cool
+{
+  color: green;
+}
+
+/*img{
+  background-color: red;
+}*/
+.hot
+{
+  height: 300px;
+}
+.hot:hover
+{
+background-color: red;
+}
+h1
+{
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+/*
+img{
+  background-color: grey;id are more specific than classes
+}
+*/
